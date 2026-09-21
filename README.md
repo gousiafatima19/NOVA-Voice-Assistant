@@ -12,7 +12,7 @@ Users can communicate with NOVA using natural **voice or text commands** to mana
 
 ### 🚀  NOVA
 
- **[Open NOVA — Live Application](https://nova-voice-assistant-three.vercel.app/)**
+ **[ NOVA — Live Application](https://nova-voice-assistant-three.vercel.app/)**
 # 📖 About the Project
 
 In today's busy world, people manage multiple responsibilities at the same time — classes, assignments, meetings, deadlines, shopping, personal tasks, and goals.
@@ -562,38 +562,13 @@ NOVA is an AI assistant project focused on natural-language interaction, everyda
 
 ---
 
-# 📄 License
+## 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the MIT License.
 
-**Copyright © 2026 NOVA Project Team**
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files, to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the conditions of the MIT License.
-
-The software is provided **"AS IS"**, without warranty of any kind, express or implied.
+See the [LICENSE](LICENSE) file for the complete license terms.
 
 ---
-
-# Acknowledgements
-
-We acknowledge the open-source technologies, frameworks, APIs, and services used in the development of NOVA, including:
-
-- Python
-- Flask
-- JavaScript
-- Supabase
-- PostgreSQL
-- pgvector
-- Vercel
-- Render
-- Groq
-- GPT-OSS
-- Gemini API
-- Resend
-- PyAutoGUI
-
----
-
 
 <div align="center">
 
